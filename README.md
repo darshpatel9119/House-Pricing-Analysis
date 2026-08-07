@@ -14,7 +14,7 @@ The project demonstrates data preparation, data modeling, DAX calculations, time
 
 ### Page 2 – Sales Performance
 
-<img src="images/page2_sales_performance.png" alt="Sales Performance" width="100%">
+<img src="Images/Sales Performance.PNG" alt="House Market Overview" width="100%">
 
 ## 🗂️ Data Source & Preparation
 
