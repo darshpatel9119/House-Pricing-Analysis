@@ -10,7 +10,7 @@ The project demonstrates data preparation, data modeling, DAX calculations, time
 
 ### Page 1 – House Market Overview
 
-![House Market Overview](images/page1_overview.png)
+![House Market Overview](Images/House Market Overveiw .PNG)
 
 ### Page 2 – Sales Performance
 
